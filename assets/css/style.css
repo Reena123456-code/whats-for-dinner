@@ -19,3 +19,15 @@ img {
 p {
     text-align: center;
 }
+
+/*recipes*/
+.recipe-box { 
+    display: inline-flex;
+    border-radius: 5%;
+    border: 6px solid #f6f2e9; 
+    margin: 5px;
+    padding: 10px;
+   
+
+
+}
