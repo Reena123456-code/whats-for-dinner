@@ -1,5 +1,6 @@
 body{
     font-family: 'Arimo', sans-serif; 
+    background-color:#ece0d2;
 }
 
 /* header */
@@ -8,6 +9,11 @@ h1 {
     font-size: 100px;
     color: brown;
     text-align: center;
+}
+
+img {
+    display: block;
+    width: 100%;
 }
 
 p {
