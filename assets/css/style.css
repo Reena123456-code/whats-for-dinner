@@ -22,6 +22,24 @@ p {
 }
 
 /*pantry*/
+.pantry-container {
+    display: block;
+    flex-direction: column;
+    border: 4px solid #bd771d;
+    color: #5e3a2c;
+}
+
+.vegetable-store {
+    background-color:aquamarine;
+}
+
+.larder {
+    background-color: cornflowerblue;
+}
+
+.fridge {
+    background-color: gold;
+}
 h3 {
     color: #bd771d;
 }
