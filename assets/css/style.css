@@ -7,7 +7,7 @@ body{
 h1 {
     font-family: 'Arvo', serif;
     font-size: 100px;
-    color: brown;
+    color: #5e3a2c;
     text-align: center;
 }
 
@@ -18,16 +18,25 @@ img {
 
 p {
     text-align: center;
+    color: #ce1e29;
 }
 
+/*pantry*/
+h3 {
+    color: #bd771d;
+}
+
+h5 {
+    color: #795773;
+}
 /*recipes*/
+
 .recipe-box { 
     display: inline-flex;
     border-radius: 5%;
     border: 6px solid #f6f2e9; 
     margin: 5px;
     padding: 10px;
-   
-
-
+    color: #63922e;
 }
+
