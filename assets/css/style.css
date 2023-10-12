@@ -29,22 +29,20 @@ p {
     border: 4px solid #bd771d;
     color: #5e3a2c;
     gap: 5px;
+    margin-bottom: 30px;
 }
 
 .vegetable-store-container {
-    background-color:aquamarine;
     justify-content: flex-start;
     width: 500px;
 }
 
 .larder-container {
-    background-color: cornflowerblue;
     justify-content: center;
     width: 500px;
 }
 
 .fridge-container {
-    background-color: gold;
     justify-content: flex-end;
     width: 500px;
 }
@@ -84,30 +82,24 @@ li {
 
 .seafood-chowder-container {
     width: 500px;
-    background-color: #63922e;
 }
 
 .steak-and-kidney-pie-container {
     width: 500px;
-    background-color: #ce1e29;
 }
 
 .shepherds-pie-container {
     width: 500px;
-    background-color: #795773;
 }
 
 .beef-stroganoff-container {
     width: 500px;
-    background-color: aqua;
 }
 
 .cod-and-tomato-bake-container {
     width: 500px;
-    background-color: aquamarine;
 }
 
 .creamy-spinach-chicken-pasta-container {
     width: 500px;
-    background-color: aliceblue;
 }
