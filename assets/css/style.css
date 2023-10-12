@@ -103,3 +103,30 @@ li {
 .creamy-spinach-chicken-pasta-container {
     width: 500px;
 }
+
+/*buttons*/
+.btn {
+    font-family: 'Arvo', serif;
+    width: 150px;
+    height: 50px;
+    text-transform: uppercase; 
+    color: #000;
+}
+
+.btn--blue {
+    border-color: blue;
+    background-color: blue;
+    color: white;
+}
+
+.btn--purple {
+    border-color: purple;
+    background-color: purple;
+    color: white;
+}
+
+.btn--pink {
+    border-color: palevioletred;
+    background-color: palevioletred;
+    color: white;
+}
