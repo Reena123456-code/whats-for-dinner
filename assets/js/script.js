@@ -11,7 +11,6 @@ function runRecipe() {
 }
 
 function checkIngredients() {
-
 }
 
 function addShopping() {
