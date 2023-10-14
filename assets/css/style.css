@@ -113,19 +113,19 @@ li {
     color: #000;
 }
 
-.btn--blue {
+.cook .btn--blue {
     border-color: blue;
     background-color: blue;
     color: white;
 }
 
-.btn--purple {
+.check .btn--purple {
     border-color: purple;
     background-color: purple;
     color: white;
 }
 
-.btn--pink {
+.add .btn--pink {
     border-color: palevioletred;
     background-color: palevioletred;
     color: white;
