@@ -111,22 +111,35 @@ li {
     height: 50px;
     text-transform: uppercase; 
     color: #000;
+    content: attr(data-type);
 }
 
-.cook .btn--blue {
+.cook, .btn--blue {
     border-color: blue;
     background-color: blue;
     color: white;
 }
 
-.check .btn--purple {
+.check, .btn--purple {
     border-color: purple;
     background-color: purple;
     color: white;
 }
 
-.add .btn--pink {
+.add, .btn--pink {
     border-color: palevioletred;
     background-color: palevioletred;
     color: white;
+}
+
+.btn--blue:active, .btn--blue:hover {
+    background-color: navy;
+}
+
+.btn--purple:active, .btn--purple:hover {
+    background-color: #795773;
+}
+
+.btn--pink:active, .btn--pink:hover {
+    background-color: rgb(177, 55, 76);
 }
